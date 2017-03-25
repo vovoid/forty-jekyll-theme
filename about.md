@@ -15,7 +15,7 @@ permalink: /about/
                 <li><a href="/about/for-developers" class="button">Developers</a></li>
             </ul>
             <header class="major">
-                <h1>Elements</h1>
+                <h1>About</h1>
             </header>
             <p>
             VSXu (VSX Ultra) is an OpenGL-based (hardware-accelerated), modular programming environment with its main purpose to visualize music and create graphic effects in real-time.</p>
