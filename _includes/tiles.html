@@ -1,5 +1,28 @@
 <section id="one" class="tiles">
-	{% for post in site.posts limit:site.tiles-count %}
+
+    <article>
+                <span class="image">
+                        <img src="assets/images/pic02.jpg" alt="" />
+                </span>
+        <header class="major">
+            <h3><a href="{{ post_url  elements }}" class="link">{{ post.title }}</a></h3>
+            <p>{{ post.description }}</p>
+        </header>
+    </article>
+    <article>
+                <span class="image">
+                        <img src="assets/images/pic11.jpg" alt="" />
+                </span>
+        <header class="major">
+            <h3><a href="{{ post_url  elements }}" class="link">{{ post.title }}</a></h3>
+            <p>{{ post.description }}</p>
+        </header>
+    </article>
+
+
+    {% for post in site.posts limit:site.tiles-count %}
+
+
 	{% if site.tiles-source == 'posts' %}
         <article>
                 <span class="image">

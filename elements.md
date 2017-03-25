@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Elements
-permalink: /elements/
 ---
 
 <!-- Main -->
