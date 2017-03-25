@@ -2,7 +2,7 @@
 title: VSXu - audio visualizer, music visualizer, visual programming language (VPL), realtime graphics design platform
 subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
-description: Visualize your music or audio with VSXu<br/><i>The</i> audio visualizer<br/><br/>v0.6.0 out now! (2017-03)
+description: Visualize your music with VSXu<br/><i>The</i> audio visualizer<br/><br/>v0.6.0 out now! (2017-03)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://new.vsxu.com" # the base hostname & protocol for your site
 author:
