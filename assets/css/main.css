@@ -3078,6 +3078,7 @@
 		margin: 0;
 		position: fixed;
 		text-transform: uppercase;
+        background: #000;
 		top: 0;
 		width: 100%;
 		z-index: 10000;
