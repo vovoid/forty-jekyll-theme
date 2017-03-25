@@ -1,21 +1,22 @@
 ---
 layout: page
-title: What is VSXu?
-permalink: /what-is-vsxu/
+title: About - What is VSXu?
+permalink: /about/
 ---
 <div id="main" class="alt">
     <section id="one">
         <div class="inner">
             <ul class="actions horizontal">
-                <li><a href="#" class="button special">This page</a></li>
-                <li><a href="#" class="button">Other page</a></li>
+                <li><a href="/about/for-music-lovers" class="button">For music lovers</a></li>
+                <li><a href="/about/for-live-events" class="button">For live events</a></li>
+                <li><a href="/about/for-artists" class="button">For artists</a></li>
+                <li><a href="/about/for-djs" class="button">For DJ's</a></li>
+                <li><a href="/about/for-vjs" class="button">For VJ's</a></li>
+                <li><a href="/about/for-developers" class="button">For Developers</a></li>
             </ul>
             <header class="major">
                 <h1>Elements</h1>
             </header>
-    
-            <!-- Content -->
-            <h2 id="content">Sample Content</h2>
             <p>
             VSXu (VSX Ultra) is an OpenGL-based (hardware-accelerated), modular programming environment with its main purpose to visualize music and create graphic effects in real-time.</p>
             
@@ -33,5 +34,3 @@ permalink: /what-is-vsxu/
         </div>
     </section>
 </div>
-
-
