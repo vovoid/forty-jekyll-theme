@@ -6,13 +6,13 @@ permalink: /elements/
 
 <!-- Main -->
 <div id="main" class="alt">
-<ul>
-	<li><a href="#" class="button special">This page</a></li>
-	<li><a href="#" class="button">Other page</a></li>
-</ul>
 <!-- One -->
 <section id="one">
 	<div class="inner">
+<ul class="actions horizontal">
+	<li><a href="#" class="button special">This page</a></li>
+	<li><a href="#" class="button">Other page</a></li>
+</ul>
 		<header class="major">
 			<h1>Elements</h1>
 		</header>
