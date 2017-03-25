@@ -44,7 +44,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="360">
-                <caret line="20" column="124" lean-forward="false" selection-start-line="20" selection-start-column="124" selection-end-line="20" selection-end-column="124" />
+                <caret line="20" column="165" lean-forward="false" selection-start-line="20" selection-start-column="165" selection-end-line="20" selection-end-column="165" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -384,7 +384,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490434297835</updated>
-      <workItem from="1490434299217" duration="15732000" />
+      <workItem from="1490434299217" duration="15800000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -404,7 +404,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15732000" />
+    <option name="totallyTimeSpent" value="15800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -712,7 +712,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="360">
-            <caret line="20" column="124" lean-forward="false" selection-start-line="20" selection-start-column="124" selection-end-line="20" selection-end-column="124" />
+            <caret line="20" column="165" lean-forward="false" selection-start-line="20" selection-start-column="165" selection-end-line="20" selection-end-column="165" />
             <folding />
           </first_editor>
           <second_editor />

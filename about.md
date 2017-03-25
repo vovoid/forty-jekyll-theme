@@ -18,7 +18,7 @@ permalink: /about/
                 <h1>About</h1>
             </header>
             <p>
-            <iframe src="https://www.youtube.com/embed/jGRfKg0No8w?ecver=1" frameborder="0" allowfullscreen style="width: 63em; height: 30em"></iframe>
+            <iframe src="https://www.youtube.com/embed/jGRfKg0No8w?ecver=1" frameborder="0" allowfullscreen style="width: 63em; height: 30em; border:1px solid white;"></iframe>
             </p>
             
             <p>
