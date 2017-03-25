@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'VSXu Audio Visualizer, visual programming language'
+landing-title: 'VSXu Audio Visualizer, VPL'
 description: null
 image: null
 author: null
