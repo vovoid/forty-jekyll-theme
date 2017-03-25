@@ -33,7 +33,7 @@ permalink: /about/
             </p>
             
             <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download VSXu for free</a></li>
+                <li><a href="/download" class="button special">Download VSXu for free</a></li>
             </ul>
 
         </div>

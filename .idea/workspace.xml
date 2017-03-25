@@ -45,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="666">
-                <caret line="37" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <first_editor relative-caret-position="630">
+                <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -58,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/about-for_music_lovers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
-                <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -385,7 +385,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490434297835</updated>
-      <workItem from="1490434299217" duration="12140000" />
+      <workItem from="1490434299217" duration="12175000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -405,7 +405,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12140000" />
+    <option name="totallyTimeSpent" value="12175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -682,17 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about-for_music_lovers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -709,11 +698,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about-for_music_lovers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="75" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="666">
-            <caret line="37" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <first_editor relative-caret-position="630">
+            <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
             <folding />
           </first_editor>
           <second_editor />
