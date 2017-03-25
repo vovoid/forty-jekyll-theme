@@ -3144,7 +3144,6 @@
 
 				#header nav a:last-child {
 					padding-right: 1.5em;
-                    padding-top: 0.6em !important;
 				}
 
 				#header nav a[href="#menu"] {
