@@ -70,8 +70,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="3146" column="49" lean-forward="false" selection-start-line="3146" selection-start-column="49" selection-end-line="3146" selection-end-column="49" />
+            <state relative-caret-position="513">
+              <caret line="3076" column="22" lean-forward="false" selection-start-line="3076" selection-start-column="22" selection-end-line="3076" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -435,7 +435,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490434297835</updated>
-      <workItem from="1490434299217" duration="13906000" />
+      <workItem from="1490434299217" duration="14150000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -455,7 +455,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13906000" />
+    <option name="totallyTimeSpent" value="14150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -764,8 +764,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="3146" column="49" lean-forward="false" selection-start-line="3146" selection-start-column="49" selection-end-line="3146" selection-end-column="49" />
+        <state relative-caret-position="513">
+          <caret line="3076" column="22" lean-forward="false" selection-start-line="3076" selection-start-column="22" selection-end-line="3076" selection-end-column="22" />
           <folding />
         </state>
       </provider>
