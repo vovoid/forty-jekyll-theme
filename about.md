@@ -21,7 +21,7 @@ permalink: /about/
             VSXu (VSX Ultra) is an OpenGL-based (hardware-accelerated), modular programming environment with its main purpose to visualize music and create graphic effects in real-time.</p>
             
             <p>
-            Its intention is to bridge the gap between programmer and artist and enabling acreative and inspiring environment to work in for all parties involved.
+            Its intention is to bridge the gap between programmer and artist and enabling a creative and inspiring environment to work in for all parties involved.
             </p>
             
             <p>
@@ -29,7 +29,7 @@ permalink: /about/
             </p>
             
             <p>
-            The program is <a href="http://fsf.org">free software</a> which means it's free from restrictions, free to share and copy, free to adapt / modify and use it any way you like.
+            The VSXu suite is <a href="http://fsf.org">free software</a> which means it's free from restrictions, free to share and copy, free to adapt / modify and use it any way you like.
             </p>
         </div>
     </section>
