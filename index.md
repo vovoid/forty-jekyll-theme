@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Vovoid VSXu'
+landing-title: ''
 description: null
 image: null
 author: null
