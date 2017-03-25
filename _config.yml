@@ -4,7 +4,7 @@ subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: Visualize your music or audio with VSXu<br/> - the realtime audio visualizer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://new.vsxu.com" # the base hostname & protocol for your site
+url: "http://new.vsxu.com" # the base hostname & protocol for your site
 author:
 street_address:
 city:
