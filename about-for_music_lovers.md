@@ -25,7 +25,10 @@ It works with - iTunes, Spotify,  Winamp and others.
 
 <p>
 This is what VSXu Player looks like:
-                <img src="/assets/images/about/music_listeners_player.png">
+</p>
+            
+            <p>
+                            <img src="/assets/images/about/music_listeners_player.png">
             </p>
             
             <p>
