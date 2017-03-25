@@ -52,7 +52,7 @@ Since VSXu Player records via the default sound card mixer rather than being bou
             </p>
             
             <ul class="actions horizontal">
-                <li><a href="/download" class="button special">Download VSXu for free</a></li>
+                <li><a href="/download" class="button">Download</a></li>
             </ul>
         </div>
     </section>
