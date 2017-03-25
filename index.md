@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Vovoid VSXu'
+landing-title: 'VSXu Audio Visualizer, visual programming language'
 description: null
 image: null
 author: null
