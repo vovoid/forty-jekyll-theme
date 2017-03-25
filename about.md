@@ -31,6 +31,11 @@ permalink: /about/
             <p>
             The VSXu suite is <a href="http://fsf.org">free software</a> which means it's free from restrictions, free to share and copy, free to adapt / modify and use it any way you like.
             </p>
+            
+            <ul class="actions horizontal">
+                <li><a href="/download" class="button">Download VSXu for free</a></li>
+            </ul>
+
         </div>
     </section>
 </div>
