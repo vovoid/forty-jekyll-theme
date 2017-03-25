@@ -7,12 +7,12 @@ permalink: /about/
     <section id="one">
         <div class="inner">
             <ul class="actions horizontal">
-                <li><a href="/about/for-music-lovers" class="button">Music lovers</a></li>
-                <li><a href="/about/for-live-events" class="button">Live events</a></li>
-                <li><a href="/about/for-artists" class="button">Artists</a></li>
-                <li><a href="/about/for-djs" class="button">DJ's</a></li>
-                <li><a href="/about/for-vjs" class="button">VJ's</a></li>
-                <li><a href="/about/for-developers" class="button">Developers</a></li>
+                <li><a href="/about/music-lovers" class="button">Music lovers</a></li>
+                <li><a href="/about/live-events" class="button">Live events</a></li>
+                <li><a href="/about/artists" class="button">Artists</a></li>
+                <li><a href="/about/djs" class="button">DJ's</a></li>
+                <li><a href="/about/vjs" class="button">VJ's</a></li>
+                <li><a href="/about/developers" class="button">Developers</a></li>
             </ul>
             <header class="major">
                 <h1>About</h1>

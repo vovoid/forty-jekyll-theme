@@ -1,37 +1,47 @@
 ---
 layout: page
-title: About - For Music Lovers
-permalink: /about/for-music-lovers
+title: VSXu - For Music Lovers
+permalink: /about/music-lovers
 ---
 <div id="main" class="alt">
     <section id="one">
         <div class="inner">
             <ul class="actions horizontal">
-                <li><a href="/about/for-music-lovers" class="button special">For music lovers</a></li>
-                <li><a href="/about/for-live-events" class="button">For live events</a></li>
-                <li><a href="/about/for-artists" class="button">For artists</a></li>
-                <li><a href="/about/for-djs" class="button">For DJ's</a></li>
-                <li><a href="/about/for-vjs" class="button">For VJ's</a></li>
-                <li><a href="/about/for-developers" class="button">For Developers</a></li>
+                <li><a href="/about/music-lovers" class="button special">Music lovers</a></li>
+                <li><a href="/about/live-events" class="button">Live events</a></li>
+                <li><a href="/about/artists" class="button">Artists</a></li>
+                <li><a href="/about/djs" class="button">DJ's</a></li>
+                <li><a href="/about/vjs" class="button">VJ's</a></li>
+                <li><a href="/about/developers" class="button">Developers</a></li>
             </ul>
 
             <header class="major">
-                <h1>Elements</h1>
+                <h1>VSXu Player - For Music Lovers</h1>
             </header>
             <p>
-            VSXu (VSX Ultra) is an OpenGL-based (hardware-accelerated), modular programming environment with its main purpose to visualize music and create graphic effects in real-time.</p>
-            
-            <p>
-            Its intention is to bridge the gap between programmer and artist and enabling acreative and inspiring environment to work in for all parties involved.
+If you enjoy listening to music, we bet you'll love a music visualizer. VSXu Player "listens" (via recording the audio) to the music you play and visualizes it, regardless of music player*.
+It works with for instance - iTunes, spotify, foobar2000, winamp etc.
+This is what VSXu Player looks like (running under KDE4 on GNU/Linux):
             </p>
             
             <p>
-            VSXu is built on a modular plug-in-based architecture so anyone can extend it and or make visualization presets ("visuals" or "states").
+                <img src="/assets/images/about/music_listeners_player.png">
             </p>
             
             <p>
-            The program is <a href="http://fsf.org">free software</a> which means it's free from restrictions, free to share and copy, free to adapt / modify and use it any way you like.
+Effects pulsate with the beat, or build slowly with the intensity of the song adding details on the higher frequencies (like cymbals) and you add an extra dimension to music listening.
+
+You can change speed and intensity of each visualization, making it more fitting to the music playing. Player also ships with many different visualization designs, so there's surely one for you to fall in love with.
+
+Since VSXu Player records via the default sound card mixer rather than being bound to any particular media player, you can also record from Line In. Connecting your computer to your TV and running VSXu is great for parties!
+
+*Drivers on Windows 7 coming from Microsoft don't support Stereo Mix/loopback recording. You might need to install your sound card vendor drivers.
+
             </p>
+            
+            <ul class="actions horizontal">
+                <li><a href="/download" class="button special">Download VSXu for free</a></li>
+            </ul>
         </div>
     </section>
 </div>
