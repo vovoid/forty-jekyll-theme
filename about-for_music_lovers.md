@@ -1,6 +1,6 @@
 ---
 layout: page-inner
-title: VSXu - For Music Lovers
+title: VSXu Player - For Music Lovers
 permalink: /about/music-lovers
 ---
 <div id="main" class="alt">
