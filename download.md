@@ -14,6 +14,7 @@ permalink: /download
                 onClick="
                     document.getElementById('download_windows').style.display = 'block'; 
                     document.getElementById('download_linux').style.display = 'none';
+                    document.getElementById('download_source').style.display = 'none';
                     document.getElementById('paypal').style.display = 'none';
                 "
                 >Windows</a></li>
@@ -21,9 +22,19 @@ permalink: /download
                 onClick="
                     document.getElementById('download_windows').style.display = 'none'; 
                     document.getElementById('download_linux').style.display = 'block';
+                    document.getElementById('download_source').style.display = 'none';
                     document.getElementById('paypal').style.display = 'none';
                 "
                 >GNU/Linux</a></li>
+                
+                <li><a href="#" class="button" 
+                onClick="
+                    document.getElementById('download_windows').style.display = 'none'; 
+                    document.getElementById('download_source').style.display = 'block';
+                    document.getElementById('paypal').style.display = 'block';
+                "
+                >Source Code</a></li>
+
             </ul>
         
             <p id="download_windows" style="display:none">
@@ -35,6 +46,16 @@ permalink: /download
                 <a href="#" onClick="document.getElementById('paypal').style.display = 'block';">Download for GNU/Linux 64-bit</a><br/>
                 Contains VSXu Artiste, VSXu Player and Server
             </p>
+
+            <p id="download_source" style="display:none">
+                VSXu is written in C++ and hosted on GitHub.  
+                <a href="https://github.com/vovoid/vsxu" target="_blank">Go to github (new window)</a><br>
+                <br>
+                VSXu is CMake-based.<br>
+                This means you can use any editor, but in terms of IDE's we recommend either QtCreator or Visual Studio.<br>
+                See the INSTALL file for more information.
+            </p>
+
             <div style="display:none" id="paypal">
                 <h2>Thanks for downloading!</h2>
                 <h3>Donate / Follow</h3>
