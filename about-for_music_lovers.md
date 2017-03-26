@@ -48,7 +48,7 @@ permalink: /about/music-lovers
             </p>
             
             <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download</a></li>
+                <li><a href="/download" class="button">Download now!</a></li>
             </ul>
         </div>
     </section>
