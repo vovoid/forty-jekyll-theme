@@ -10,7 +10,7 @@ permalink: /download
                 <h1>Download VSXu</h1>
             </header>
             <header class="major">
-                <h1>Download VSXu</h2>
+                <h2>Download VSXu</h2>
             </header>
             <ul class="actions horizontal">
                 <li><a href="#" class="button" 
