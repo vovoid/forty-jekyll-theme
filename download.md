@@ -30,6 +30,7 @@ permalink: /download
                 <li><a href="#" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'none'; 
+                    document.getElementById('download_linux').style.display = 'none';
                     document.getElementById('download_source').style.display = 'block';
                     document.getElementById('paypal').style.display = 'block';
                 "
