@@ -36,9 +36,9 @@ permalink: /download
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
+                    <input type="hidden" name="on0" value="Yes! I want to">
                     <table>
                       <tbody>
-                        <tr><td><input type="hidden" name="on0" value="Yes! I want to">Yes! I want to</td></tr><tr><td>
                         <select name="os0">
                             <option value="Donate Casual">Donate Casual $3,00 USD</option>
                             <option value="Donate Fair">Donate Fair $5,00 USD</option>
