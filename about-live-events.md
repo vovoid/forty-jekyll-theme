@@ -8,8 +8,9 @@ main_menu: yes
     <section id="one">
         <div class="inner">
             <ul class="actions horizontal">
+                <li><a href="/about" class="button">About</a></li>
                 <li><a href="/about/music-lovers" class="button">Music lovers</a></li>
-                <li><a href="/about/live-events" class="button">Live events</a></li>
+                <li><a href="/about/live-events" class="button special">Live events</a></li>
                 <li><a href="/about/artists" class="button">Artists</a></li>
                 <li><a href="/about/djs" class="button">DJ's</a></li>
                 <li><a href="/about/vjs" class="button">VJ's</a></li>
