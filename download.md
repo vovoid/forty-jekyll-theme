@@ -39,27 +39,27 @@ permalink: /download
                 <table>
                 <tr>
                 <td style="width:50%">
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
-                    <input type="hidden" name="on0" value="Yes! I want to">
-                    <select name="os0">
-                        <option value="Donate Casual">Donate Casual $3,00 USD</option>
-                        <option value="Donate Fair">Donate Fair $5,00 USD</option>
-                        <option value="Donate Cute">Donate Cute $10,00 USD</option>
-                        <option value="Donate Great">Donate Great $15,00 USD</option>
-                        <option value="Donate Sweet">Donate Sweet $20,00 USD</option>
-                        <option value="Donate Wow">Donate Wow $30,00 USD</option>
-                        <option value="Donate Super">Donate Awesome $50,00 USD</option>
-                        <option value="Donate Awesome">Donate Super Awesome $100,00 USD</option>
-                    </select>
-                    <input type="hidden" name="currency_code" value="USD">
-                    <br>
-                    <input type="image" src="https://www.paypalobjects.com/en_US/SE/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/sv_SE/i/scr/pixel.gif" width="1" height="1">
-                </form>
-                </td style="width:50%">
-                <td style="background-color:#aaa">
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
+                        <input type="hidden" name="on0" value="Yes! I want to">
+                        <select name="os0">
+                            <option value="Donate Casual">Donate Casual $3,00 USD</option>
+                            <option value="Donate Fair">Donate Fair $5,00 USD</option>
+                            <option value="Donate Cute">Donate Cute $10,00 USD</option>
+                            <option value="Donate Great">Donate Great $15,00 USD</option>
+                            <option value="Donate Sweet">Donate Sweet $20,00 USD</option>
+                            <option value="Donate Wow">Donate Wow $30,00 USD</option>
+                            <option value="Donate Super">Donate Awesome $50,00 USD</option>
+                            <option value="Donate Awesome">Donate Super Awesome $100,00 USD</option>
+                        </select>
+                        <input type="hidden" name="currency_code" value="USD">
+                        <br>
+                        <input type="image" src="https://www.paypalobjects.com/en_US/SE/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/sv_SE/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+                </td>
+                <td style="background-color:#aaa; width:50%">
                     <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="http://platform.twitter.com/widgets/follow_button.89bd237a86eeb0e8b1de842a4b88b09b.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=VSXu&amp;show_count=true&amp;show_screen_name=true&amp;size=l&amp;time=1490522543370" style="position: static; visibility: visible; width: 216px; height: 28px;" data-screen-name="VSXu"></iframe>
                     <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FVovoid-VSXu%2F129044247131992&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" style="border:none;height:30px;width:100%"></iframe>
                  </td>
