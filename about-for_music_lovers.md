@@ -11,8 +11,7 @@ permalink: /about/music-lovers
                 <li><a href="/about/music-lovers" class="button special">Music lovers</a></li>
                 <li><a href="/about/live-events" class="button">Live events</a></li>
                 <li><a href="/about/artists" class="button">Artists</a></li>
-                <li><a href="/about/djs" class="button">DJ's</a></li>
-                <li><a href="/about/vjs" class="button">VJ's</a></li>
+                <li><a href="/about/streamers" class="button">Streamers</a></li>
                 <li><a href="/about/developers" class="button">Developers</a></li>
             </ul>
 
