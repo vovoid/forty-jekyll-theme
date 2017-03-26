@@ -3086,7 +3086,7 @@ select option {
 		position: fixed;
 		text-transform: uppercase;
         background: #000;
-        opacity: 0.7;
+        opacity: 0.9;
 		top: 0;
 		width: 100%;
 		z-index: 10000;
