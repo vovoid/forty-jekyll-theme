@@ -50,7 +50,7 @@ main_menu: yes
       <h2>Concept sketch of this setup</h2>
       <p>
       (Click to enlarge)<br>
-      <a href="/data/baker/vsxu.com/app/modules/index/images/live_event_sketch_example.png"><img src="/data/baker/vsxu.com/app/modules/index/images/live_event_sketch_example.png" style="border: 1px solid #999; max-width:550px"></a>
+      <a href="/assets/images/screenshots/live_event_sketch_example.png"><img src="/assets/images/screenshots/live_event_sketch_example.png" style="border: 1px solid #999; max-width:550px"></a>
       </p>
       <br>
 
