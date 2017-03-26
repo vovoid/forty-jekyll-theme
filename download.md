@@ -10,7 +10,7 @@ permalink: /download
                 <h1>Download VSXu</h1>
             </header>
             <p>
-            Current Version: {{ site.current_version }} {{ site.current_version_date }}
+            Current Version: {{ site.current_version }} Released {{ site.current_version_date }}
             </p>
             <ul class="actions horizontal">
                 <li><a href="#" class="button" 
