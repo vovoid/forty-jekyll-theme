@@ -40,20 +40,16 @@ permalink: /download
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
                     <input type="hidden" name="on0" value="Yes! I want to">
-                    <table>
-                      <tbody>
-                        <select name="os0">
-                            <option value="Donate Casual">Donate Casual $3,00 USD</option>
-                            <option value="Donate Fair">Donate Fair $5,00 USD</option>
-                            <option value="Donate Cute">Donate Cute $10,00 USD</option>
-                            <option value="Donate Great">Donate Great $15,00 USD</option>
-                            <option value="Donate Sweet">Donate Sweet $20,00 USD</option>
-                            <option value="Donate Wow">Donate Wow $30,00 USD</option>
-                            <option value="Donate Super">Donate Awesome $50,00 USD</option>
-                            <option value="Donate Awesome">Donate Super Awesome $100,00 USD</option>
-                        </select>
-                        </td></tr>
-                    </tbody></table>
+                    <select name="os0">
+                        <option value="Donate Casual">Donate Casual $3,00 USD</option>
+                        <option value="Donate Fair">Donate Fair $5,00 USD</option>
+                        <option value="Donate Cute">Donate Cute $10,00 USD</option>
+                        <option value="Donate Great">Donate Great $15,00 USD</option>
+                        <option value="Donate Sweet">Donate Sweet $20,00 USD</option>
+                        <option value="Donate Wow">Donate Wow $30,00 USD</option>
+                        <option value="Donate Super">Donate Awesome $50,00 USD</option>
+                        <option value="Donate Awesome">Donate Super Awesome $100,00 USD</option>
+                    </select>
                     <input type="hidden" name="currency_code" value="USD">
                     <input type="image" src="https://www.paypalobjects.com/en_US/SE/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                     <img alt="" border="0" src="https://www.paypalobjects.com/sv_SE/i/scr/pixel.gif" width="1" height="1">
