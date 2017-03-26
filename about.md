@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - What is VSXu?
+title: About
 permalink: /about/
 main_menu: yes
 ---
