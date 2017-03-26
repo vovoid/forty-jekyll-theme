@@ -12,6 +12,8 @@ state:
 zip_code:
 country:
 phone:
+current_version: v0.6.0
+current_version_date: 2017-04-02
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
