@@ -1648,7 +1648,14 @@
 		line-height: 1.65;
 	}
 
-		@media screen and (max-width: 1680px) {
+select option {
+    margin: 40px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
 				font-size: 14pt;
