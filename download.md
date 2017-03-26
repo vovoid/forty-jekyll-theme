@@ -11,10 +11,16 @@ permalink: /download
             </header>
             <ul class="actions horizontal">
                 <li><a href="#" class="button" 
-                onClick="document.getElementById('download_windows').style.display = 'block'; document.getElementById('download_linux').style.display = 'none';"
+                onClick="
+                    document.getElementById('download_windows').style.display = 'block'; 
+                    document.getElementById('download_linux').style.display = 'none';
+                "
                 >Windows</a></li>
                 <li><a href="#" class="button" 
-                onClick="document.getElementById('download_linux').style.display = 'block'; document.getElementById('download_linux').style.display = 'none';"
+                onClick="
+                    document.getElementById('download_windows').style.display = 'none'; 
+                    document.getElementById('download_linux').style.display = 'block';
+                "
                 >GNU/Linux</a></li>
             </ul>
         
