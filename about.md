@@ -2,6 +2,7 @@
 layout: page
 title: About - What is VSXu?
 permalink: /about/
+main_menu: yes
 ---
 <div id="main" class="alt">
     <section id="one">

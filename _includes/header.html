@@ -19,7 +19,10 @@
 		{% endfor %}
 		{% for page in site.pages %}
 		    {% if page.layout != "home" %}
+        {% if page.main_menu != "yes" %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+
+        {% endif %}
 		    {% endif %}
 		{% endfor %}
 	</ul>

@@ -2,6 +2,7 @@
 layout: page
 title: Download
 permalink: /download
+main_menu: yes
 ---
 <div id="main" class="alt">
     <section id="one">

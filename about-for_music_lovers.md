@@ -2,6 +2,7 @@
 layout: page
 title: VSXu - For Music Lovers
 permalink: /about/music-lovers
+main_menu: no
 ---
 <div id="main" class="alt">
     <section id="one">
@@ -31,6 +32,8 @@ permalink: /about/music-lovers
                 <img src="/assets/images/about/music_listeners_player.png">
             </p>
             
+                        {% include mid_ad.html %}
+
             <p>
                 Effects pulsate with the beat, or build slowly with the intensity of the song adding details on the higher frequencies (like cymbals) and you add an extra dimension to music listening.
             </p>

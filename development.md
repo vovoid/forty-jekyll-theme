@@ -2,6 +2,7 @@
 layout: page
 title: Development
 permalink: /development/
+main_menu: yes
 ---
 
 

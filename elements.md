@@ -2,6 +2,7 @@
 layout: page
 title: Elements
 permalink: /elements/
+main_menu: no
 ---
 
 <!-- Main -->
