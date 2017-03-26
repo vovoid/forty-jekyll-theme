@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: page-inner
 title: VSXu - For Music Lovers
 permalink: /about/music-lovers
-main_menu: no
 ---
 <div id="main" class="alt">
     <section id="one">
