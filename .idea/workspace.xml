@@ -169,8 +169,8 @@
         <entry file="file://$PROJECT_DIR$/download.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="703">
-                <caret line="67" column="256" lean-forward="false" selection-start-line="67" selection-start-column="256" selection-end-line="67" selection-end-column="256" />
+              <first_editor relative-caret-position="217">
+                <caret line="42" column="37" lean-forward="false" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -418,7 +418,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490434297835</updated>
-      <workItem from="1490434299217" duration="22369000" />
+      <workItem from="1490434299217" duration="22408000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -438,7 +438,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22369000" />
+    <option name="totallyTimeSpent" value="22408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -745,8 +745,8 @@
     <entry file="file://$PROJECT_DIR$/download.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="703">
-            <caret line="67" column="256" lean-forward="false" selection-start-line="67" selection-start-column="256" selection-end-line="67" selection-end-column="256" />
+          <first_editor relative-caret-position="217">
+            <caret line="42" column="37" lean-forward="false" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
             <folding />
           </first_editor>
           <second_editor />

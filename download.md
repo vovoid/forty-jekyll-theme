@@ -40,7 +40,7 @@ permalink: /download
                 <h3>Donate / Follow</h3>
                 <table>
                 <tr>
-                <td style="width:50%; background-color:#555;">
+                <td style="width:50%;">
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
@@ -61,7 +61,7 @@ permalink: /download
                         <img alt="" border="0" src="https://www.paypalobjects.com/sv_SE/i/scr/pixel.gif" width="1" height="1">
                     </form>
                 </td>
-                <td style="background-color:#555; width:50%">
+                <td style="width:50%">
                     <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="http://platform.twitter.com/widgets/follow_button.89bd237a86eeb0e8b1de842a4b88b09b.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=VSXu&amp;show_count=true&amp;show_screen_name=true&amp;size=l&amp;time=1490522543370" style="position: static; visibility: visible; width: 216px; height: 28px;" data-screen-name="VSXu"></iframe>
                     <br>
                     <br>
