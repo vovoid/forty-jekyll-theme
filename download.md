@@ -14,12 +14,14 @@ permalink: /download
                 onClick="
                     document.getElementById('download_windows').style.display = 'block'; 
                     document.getElementById('download_linux').style.display = 'none';
+                    document.getElementById('paypal').style.display = 'none';
                 "
                 >Windows</a></li>
                 <li><a href="#" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'none'; 
                     document.getElementById('download_linux').style.display = 'block';
+                    document.getElementById('paypal').style.display = 'none';
                 "
                 >GNU/Linux</a></li>
             </ul>
@@ -38,7 +40,7 @@ permalink: /download
                 <h3>Donate / Follow</h3>
                 <table>
                 <tr>
-                <td style="width:50% background-color:#555;">
+                <td style="width:50%; background-color:#555;">
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
@@ -61,6 +63,8 @@ permalink: /download
                 </td>
                 <td style="background-color:#555; width:50%">
                     <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="http://platform.twitter.com/widgets/follow_button.89bd237a86eeb0e8b1de842a4b88b09b.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=VSXu&amp;show_count=true&amp;show_screen_name=true&amp;size=l&amp;time=1490522543370" style="position: static; visibility: visible; width: 216px; height: 28px;" data-screen-name="VSXu"></iframe>
+                    <br>
+                    <br>
                     <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FVovoid-VSXu%2F129044247131992&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" style="border:none;height:30px;width:100%"></iframe>
                  </td>
                  </tr>
