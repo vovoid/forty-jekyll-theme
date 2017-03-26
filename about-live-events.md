@@ -19,7 +19,7 @@ main_menu: yes
                 <h1>VSXu Artiste, VSXu Player, VSXu Server - For Live Events</h1>
             </header>
               
-      <p><i>VSXu has successfully been used at live events including concerts and live band performances.</i><br>
+      <p><i>VSXu has successfully been used at many live events including concerts and live band performances.</i><br>
       <br>
       Compared to most pre-rendered video, a real time source like VSXu provides much smoother movements and shorter reaction times.<br>
       <br>

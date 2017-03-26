@@ -24,11 +24,11 @@ permalink: /about/music-lovers
             </p>
 
             <p>
-                This is what VSXu Player looks like:
+                This is what VSXu Player looks like in action:
             </p>
             
             <p>
-                <img src="/assets/images/about/music_listeners_player.png">
+                <iframe src="https://www.youtube.com/embed/jGRfKg0No8w?ecver=1" frameborder="0" allowfullscreen style="width: 63em; height: 30em; border:1px solid white;"></iframe>
             </p>
             
                         {% include mid_ad.html %}
