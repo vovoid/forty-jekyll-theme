@@ -43,8 +43,11 @@ permalink: /download
             </p>
             
             <p id="download_linux" style="display:none">
-                <a href="#" onClick="document.getElementById('paypal').style.display = 'block';">Download for GNU/Linux 64-bit</a><br/>
-                Contains VSXu Artiste, VSXu Player and Server
+                <a href="#" onClick="document.getElementById('paypal').style.display = 'block';">Download AppImage for GNU/Linux 64-bit</a><br/>
+                Contains VSXu Artiste, VSXu Player and Server.<br>
+                <br>
+                To run, set execution flag on the file and just run it. Most desktop environments understand this type of file
+                so if you put it on your Desktop for instance - you can usually just double click it.
             </p>
 
             <p id="download_source" style="display:none">
