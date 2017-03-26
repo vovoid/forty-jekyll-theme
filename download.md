@@ -9,9 +9,6 @@ permalink: /download
             <header class="major">
                 <h1>Download VSXu</h1>
             </header>
-            <header class="major">
-                <h2>Platform / Operating System</h2>
-            </header>
             <ul class="actions horizontal">
                 <li><a href="#" class="button" 
                 onClick="document.getElementById('download_windows').style.display = 'block'; document.getElementById('download_linux').style.display = 'none';"
