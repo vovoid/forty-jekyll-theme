@@ -48,39 +48,19 @@ permalink: /documentation/faq
                             <br>
                             Here is an example on how to start VSXu Artiste in Fullscreen Full HD resolution:
                         </p>
-                              <pre>vsxu_artiste -s 1920x1080 -f
-              
-                or
-              
-              vsxu_player -s 1920x1080 -f
-                              </pre>
+                          <pre>vsxu_artiste -s 1920x1080 -f</pre>
+                            or
+                          <pre>vsxu_player -s 1920x1080 -f</pre>
                         <p>
                            If you run Windows, you can right-click the shortcut in the start menu and edit the command right there.
                             <br>
                             <br>
                             To view all available command line arguments, run this:
                           </p>
-                              <pre>vsxu_artiste -h
-                              </pre>
-              
-                        <p>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-              
-                          </p>
+                              <pre>vsxu_artiste -h</pre>
                       </div>
               
-              
-              
-              
                       <hr>
-              
-              
-              
-              
               
               
                       <h2 onclick="$('.question_audio').show()" style="cursor:pointer">
@@ -109,19 +89,12 @@ permalink: /documentation/faq
                             If you're on Ubuntu, you can just search for it in the software center.<br>
                             Or if you prefer command line:<br>
                         </p>
-                        <pre>              apt-get install pavucontrol
-                        </pre>
+                        <pre>apt-get install pavucontrol</pre>
                         <p>
                             Once installed, you can set the recording settings for individual programs. If you start VSXu first
                             and pavucontrol second, VSXu should show up in pavucontrol and you can then select a sound
                             recording source for it.
                         </p>
-              
-                          <br>
-                          <br>
-                          <br>
-                          <br>
-                          <br>
                       </div>
               
                       <hr>
@@ -180,7 +153,6 @@ permalink: /documentation/faq
                             <li>There are also hardware solutions - the ones at <a href="http://www.avermedia.com/Product/ProductList.aspx?IID=7" target="_blank">Avermedia</a>
                                 seems quite useful (we haven't tested them though).</li>
                           </ul>
-              
                       </div>
               
               
