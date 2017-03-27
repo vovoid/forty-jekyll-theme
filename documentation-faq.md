@@ -35,7 +35,6 @@ permalink: /documentation/faq
             Click on a question to view the answer.
             </p>
               
-              
                       <h2 onclick="$('.question_fullscreen').show()" style="cursor:pointer">
                           Q: How do I run in fullscreen mode?
                       </h2>
@@ -127,7 +126,7 @@ permalink: /documentation/faq
                               really be experienced by running the software "for real" on your own GPU.
                           </p>
                           <p>
-                              If your goal is to create video material - we recommend <a href="http://www.blender.org/">Blender</a>.
+                              If your goal is to create video material with VSXu Artiste - we would instead recommend <a href="http://www.blender.org/">Blender</a>.
                               It's probably easier to use, and will get you results quicker.
                           </p>
                           <p>
@@ -155,91 +154,38 @@ permalink: /documentation/faq
                           </ul>
                       </div>
               
-              
-              
-              
-              
-              
                       <hr>
-              
-              
-              
-              
               
                       <h2 onclick="$('.question_mac').show()" style="cursor:pointer">
                           Q: Why is there no version for Mac OSX?
                       </h2>
                       <div class="question_mac" style="padding-left:20px; display:none">
                           <h2>
-                          - Long story short: Because it is not worth it - costs too much effort (and money) to maintain one.<br>
+                          - Long story short: If we did, no one would be happy with the results.<br>
                           </h2>
                           <p>
-                            We get this question a lot.<br>
+                            Why?! What do you mean "not happy with the results"?<br>
                             <br>
-                            First, regardless of OS platform, when releasing software, it has to be tested properly. This is for your
-                            sake as a user/customer, and it would be totally pointless - not to mention
-                            rude - to deliver untested software. It would most likely crash all the time. This kind of testing
-                            needs to be done on many levels, some things pretty regularly - and for that a virtualized environment has saved
-                            time and we'd go so far as to say it's necesarry.<br>
+                            First, we get this question a lot.<br>
                             <br>
-              
-                            So, in order to properly test VSXu on Windows and GNU/Linux - the same relatively cheap computer can be used (less than $1000). Development
-                            can be done in virtualized environments as well. Nightly builds (yes, for Windows also!) take place on GNU/Linux running on very cheap (less than $200) hardware. <br>
+                            Many Apple customers seem to believe that their Apple hardware is designed for graphics 
+                            while in fact it is not. It is generally designed for physical portability - not games, or graphics.<br>
                             <br>
-                            But when it comes
-                            to Apple - the story is vastly different. Let's review some facts.<br>
-                          </p>
-                          <h2>Apple hardware</h2>
-                          <p>
-                            Apple hardware is PC hardware. Same parts bought from intel as everyone else.
-                            Thus there is no difference in hardware between "Mac and PC". The hardware is the same.
+                            While you can play basic games on a Mac, several of VSXu's states render particles in the millions.<br>
                             <br>
-                            VSXu is designed for discrete graphics. That is - "AMD" or "nVidia" graphics chips.<br>
-              
-                            As of now (January 2016), only the top model of "Mac Book Pro"
-                            and the "Mac Pro"  ship with discrete graphics.
-                            All other PC:s from Apple ship with Intel HD graphics, including the iMac which used to have discrete graphics.
-              
-                            But Intel is cheaper, thus more profits for Apple.
-              
-                            Intel HD Graphics is fine for surfing the web and doing the most basic OpenGL things, but
-                            it can not deliver up to our standards - which is running all visuals in VSXu in at least 1080p
-                            at 60 frames per second. Also many macs have higher resolutions than that which will mean lower frame rates
-                            (down to 10-20) which takes away all the fun from music visualization.
-                            <i>So the market simply isn't there.</i>
-                          </p>
-                          <h2>OSX and its licensing</h2>
-                          <p>
-                            There are a couple of licensing problems with OSX which complicate things.<br>
-                            Its EULA does not allow virtualization on anything other than Apple's own hardware.<br>
-                            Thus, we have to go out of our way to buy Apple hardware without discrete graphics to even compile things!
-              
-                            Again - very different from both Windows and GNU/Linux which do not have these limitations.
-                            Hampers development and makes it a big hurdle to even considering supporting OSX.
-                          </p>
-                          <h2>Conclusion</h2>
-                          <p>
-                            The development of VSXu is not for-profit so there's really not a budget, and since neither own any computers
-                            from Apple (why would one want such limited hardware anyway?)
-                            it would cost too much for us to go out of our way just to maintain a Mac version.<br>
+                            Unfortunately, the majority of Apple hardware has insufficient graphics cards of the Intel HD Graphics/Iris variety.<br>
+                            Only the Mac Pro would be good enough for running all of VSXu's presets.<br>
                             <br>
-                            And on top of everything else, we do not appreciate Apple's arrogance towards developers.
+                            And a much more affordable gaming PC outperforms the Mac Pro for OpenGL workloads.<br>
                             <br>
-                          </p>
-                          <h2>Might we recommend an alternative?</h2>
-                          <p>
-                              If you want VSXu running, cheaply - get or build a bleeding edge consumer PC with the latest desktop technology that Intel and Nvidia has to offer, and run GNU/Linux on it.<br>
-                              <br>
-                          </p>
-                          <h2>Yet another alternative</h2>
-                          <p>
-                              Use "boot camp" to dual boot into GNU/Linux or Windows. (If you can live with a mobile-class GPU)
-                          </p>
-                          <h2>If you still think we should maintain a Mac version</h2>
-                          <p>
-                            You are always welcome to do just that - the code is Free / Open Source. We probably wont maintain your
-                            commits though, you are on your own.
-                          </p>
+                            So the market is not only small, it's virtually non-existent.<br>
+                            And 90% of mac users would get underwhelming results and think we are to blame.<br>
+                            <br>
+                            As we don't own any Apple hardware ourselves, we have little incentive to support
+                            a platform that simply does not deliver.<br>
+                            <br>
+                            Should this change (VR coming along etc) we will of course reconsider.<br>
+                            
                       </div>
       </div>
   </section>
