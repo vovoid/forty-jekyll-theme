@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: page-inner
 title: VSXu Artiste - For Artists
 permalink: /about/artists
-main_menu: yes
 ---
 <div id="main" class="alt">
     <section id="one">
