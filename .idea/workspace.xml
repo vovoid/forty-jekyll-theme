@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-faq.md" afterPath="$PROJECT_DIR$/documentation-faq.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55584">
-              <caret line="3088" column="20" lean-forward="false" selection-start-line="3088" selection-start-column="20" selection-end-line="3088" selection-end-column="20" />
+            <state relative-caret-position="1291">
+              <caret line="3933" column="1" lean-forward="false" selection-start-line="3933" selection-start-column="1" selection-end-line="3933" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -219,12 +219,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documentation-faq.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="documentation-faq.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation-faq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="648">
-                <caret line="36" column="0" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="36" selection-end-column="0" />
+              <first_editor relative-caret-position="612">
+                <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -463,7 +463,6 @@
         <option value="$PROJECT_DIR$/_layouts/page-inner.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/about-for_music_lovers.md" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/about-streamers.md" />
@@ -475,6 +474,7 @@
         <option value="$PROJECT_DIR$/documentation.md" />
         <option value="$PROJECT_DIR$/_includes/tiles.html" />
         <option value="$PROJECT_DIR$/documentation-faq.md" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -545,6 +545,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vsxu.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vsxu.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -649,7 +667,7 @@
       <updated>1490434297835</updated>
       <workItem from="1490434299217" duration="28448000" />
       <workItem from="1490624196105" duration="1471000" />
-      <workItem from="1490638927434" duration="1477000" />
+      <workItem from="1490638927434" duration="1621000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -669,7 +687,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31396000" />
+    <option name="totallyTimeSpent" value="31540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -1013,14 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55584">
-          <caret line="3088" column="20" lean-forward="false" selection-start-line="3088" selection-start-column="20" selection-end-line="3088" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about-vjs.md" />
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1164,11 +1174,19 @@
     <entry file="file://$PROJECT_DIR$/documentation-faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="648">
-            <caret line="36" column="0" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="36" selection-end-column="0" />
+          <first_editor relative-caret-position="612">
+            <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1291">
+          <caret line="3933" column="1" lean-forward="false" selection-start-line="3933" selection-start-column="1" selection-end-line="3933" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
