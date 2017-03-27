@@ -11,7 +11,7 @@ permalink: /documentation
                     <a href="/documentation" class="button special">
                         About
                     </a>
-                    <a href="/documentation/faq" class="button special">
+                    <a href="/documentation/faq" class="button">
                         FAQ
                     </a>
                     <a href="/documentation/vsxu-live" class="button">

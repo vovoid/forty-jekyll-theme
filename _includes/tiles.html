@@ -1,51 +1,96 @@
 <section id="one" class="tiles">
 
     <article>
-                <span class="image">
-                        <img src="assets/images/screenshots/screenshot_player_2.png" alt="" />
-                </span>
+        <span class="image">
+                <img src="assets/images/screenshots/screenshot_player_2.png" alt="" />
+        </span>
         <header class="major">
             <h3><a href="/about" class="link">About</a></h3>
             <p>What is VSXu?<br>Who is it for?<br>How can it be used?</p>
         </header>
     </article>
+
     <article>
-                <span class="image">
-                        <img src="assets/images/screenshots/screenshot_player_3.png" alt="" />
-                </span>
+        <span class="image">
+                <img src="assets/images/screenshots/screenshot_player_1.png" alt="" />
+        </span>
         <header class="major">
-            <h3><a href="/support/" class="link">Support</a></h3>
-            <p>How to make VSXu work for you</p>
+            <h3><a href="/products" class="link">About</a></h3>
+            <p>What are the different parts of VSXu?<br>What can they do?</p>
         </header>
     </article>
 
 
-    {% for post in site.posts limit:site.tiles-count %}
+    <article>
+        <span class="image">
+                <img src="assets/images/screenshots/screenshot_player_3.png" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="/support/" class="link">Support</a></h3>
+            <p>How can you make VSXu work for you?</p>
+        </header>
+    </article>
+
+    <article>
+        <span class="image">
+                <img src="assets/images/screenshots/screenshot_player_4.png" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="/documentation" class="link">About</a></h3>
+            <p>How do you make your own visuals?<br>How do you set up sound responsiveness?</p>
+        </header>
+    </article>
 
 
-	{% if site.tiles-source == 'posts' %}
-        <article>
-                <span class="image">
-                        <img src="{{ post.image }}" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-                        <p>{{ post.description }}</p>
-                </header>
-        </article>
-	{% endif %}
-	{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
-        <article>
-                <span class="image">
-                        <img src="{{ page.image }}" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
-                        <p>{{ page.description }}</p>
-                </header>
-        </article>
-	{% endif %}
-	{% endfor %}
+    <article>
+        <span class="image">
+                <img src="assets/images/screenshots/screenshot_player_5.png" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="/development/" class="link">Development</a></h3>
+            <p>Get involved in VSXu development, or use it in your own project!</p>
+        </header>
+    </article>
+
+    <article>
+        <span class="image">
+                <img src="assets/images/screenshots/screenshot_player_6.png" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="/credits/" class="link">Credits</a></h3>
+            <p>
+                Who contributed to the project?<br>
+                What third-party libraries does VSXu depend on?
+            </p>
+        </header>
+    </article>
+
+    <!--    {% for post in site.posts limit:site.tiles-count %}
+
+
+        {% if site.tiles-source == 'posts' %}
+            <article>
+                    <span class="image">
+                            <img src="{{ post.image }}" alt="" />
+                    </span>
+                    <header class="major">
+                            <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+                            <p>{{ post.description }}</p>
+                    </header>
+            </article>
+        {% endif %}
+        {% endfor %}
+        {% for page in site.pages limit:site.tiles-count %}
+        {% if site.tiles-source == 'pages' %}
+            <article>
+                    <span class="image">
+                            <img src="{{ page.image }}" alt="" />
+                    </span>
+                    <header class="major">
+                            <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
+                            <p>{{ page.description }}</p>
+                    </header>
+            </article>
+        {% endif %}
+        {% endfor %}-->
 </section>
