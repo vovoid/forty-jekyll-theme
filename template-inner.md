@@ -1,6 +1,6 @@
 ---
 layout: page-inner
-title: Title - Inner
+title: Template - Inner
 permalink: /template/inner
 ---
 <div id="main" class="alt">
@@ -8,7 +8,7 @@ permalink: /template/inner
         <div class="inner">
             <ul class="actions horizontal">
                 <li>
-                    <a href="/about" class="button special">
+                    <a href="/template" class="button special">
                     
                     </a>
                 </li>

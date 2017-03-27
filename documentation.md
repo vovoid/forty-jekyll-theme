@@ -38,10 +38,6 @@ permalink: /documentation
             <p>
                 To get started with VSXu Artiste, we recommend <a href="/documentation/vsxu-live">VSXu Live</a>
             </p>
-
-            <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download now!</a></li>
-            </ul>
       </div>
   </section>
 </div>
