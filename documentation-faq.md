@@ -1,7 +1,7 @@
 ---
 layout: page-inner
-title: Template - Inner
-permalink: /template/inner
+title: Documentation - FAQ
+permalink: /documentation/faq
 ---
 <div id="main" class="alt">
     <section id="one">
@@ -28,13 +28,12 @@ permalink: /template/inner
             
             <header class="major">
                 <h1>
-                    Frequently Asked Questions
+                    Frequently Asked Questions about VSXu
                 </h1>
             </header>
-                      <h1>Frequently Asked Questions about VSXu</h1>
-                      <p>
-                        Click on a question to view the answer.
-                      </p>
+            <p>
+            Click on a question to view the answer.
+            </p>
               
               
                       <h2 onclick="$('.question_fullscreen').show()" style="cursor:pointer">
