@@ -59,8 +59,8 @@ main_menu: yes
                 VSXu is written in C++ and hosted on GitHub.  
                 <a href="https://github.com/vovoid/vsxu" target="_blank">Go to github (new window)</a><br>
                 <br>
-                VSXu is CMake-based.<br>
-                This means you can use any editor, but in terms of IDE's we recommend either QtCreator or Visual Studio.<br>
+                VSXu is generally developed under Linux, but now (since 0.6.0) you can develop equally well on Windows.<br>
+                VSXu is built with CMake which means you can use any editor, but in terms of IDE's we recommend either QtCreator (Linux/Windows) or Visual Studio (Windows).<br>
                 See the INSTALL file for more information.
             </p>
 
