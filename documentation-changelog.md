@@ -39,9 +39,6 @@ permalink: /documentation/changelog
                     Changelog
                 </h1>
             </header>
-              
-            <div class="page">
-            
             
             <h4>0.3.0.4 (April 2012)</h4>
             

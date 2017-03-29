@@ -256,8 +256,8 @@
         <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="702">
-                <caret line="402" column="0" lean-forward="false" selection-start-line="401" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
+              <first_editor relative-caret-position="377">
+                <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -475,6 +475,8 @@
       <find>&lt;a</find>
       <find>&lt;/a</find>
       <find>pre</find>
+      <find>&lt;/section</find>
+      <find>div</find>
     </findStrings>
     <replaceStrings>
       <replace>/assets/images/screenshots</replace>
@@ -645,7 +647,7 @@
       <workItem from="1490434299217" duration="28448000" />
       <workItem from="1490624196105" duration="1471000" />
       <workItem from="1490638927434" duration="3030000" />
-      <workItem from="1490779555312" duration="1926000" />
+      <workItem from="1490779555312" duration="1991000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -665,7 +667,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34875000" />
+    <option name="totallyTimeSpent" value="34940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="2560" height="1416" extended-state="6" />
@@ -1175,8 +1177,8 @@
     <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="702">
-            <caret line="402" column="0" lean-forward="false" selection-start-line="401" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
+          <first_editor relative-caret-position="377">
+            <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
