@@ -43,84 +43,84 @@ permalink: /documentation/faq
             Click on a question to view the answer.
             </p>
               
-                      <h2 onclick="$('.question_fullscreen').show()" style="cursor:pointer">
-                          Q: How do I run in fullscreen mode?
-                      </h2>
-                      <div class="question_fullscreen" style="padding-left:20px; display:none">
-                          <p>
-                            vsxu_player and vsxu_artiste accept command line arguemnts.<br>
-                            So, you need to add -f to the command. And optionally -s [width]x[height] for screen resolution<br>
-                            Try to use your existing screen resolution, that is always best.<br>
-                            When hitting -f VSXu tries to detect your screen resolution but this doesn't always work...<br>
-                            <br>
-                            Here is an example on how to start VSXu Artiste in Fullscreen Full HD resolution:
-                        </p>
-                          <pre>vsxu_artiste -s 1920x1080 -f</pre>
-                            or
-                          <pre>vsxu_player -s 1920x1080 -f</pre>
-                        <p>
-                           If you run Windows, you can right-click the shortcut in the start menu and edit the command right there.
-                            <br>
-                            <br>
-                            To view all available command line arguments, run this:
-                          </p>
-                              <pre>vsxu_artiste -h</pre>
-                      </div>
+            <h2 onclick="$('.question_fullscreen').show()" style="cursor:pointer">
+              Q: How do I run in fullscreen mode?
+            </h2>
+            <div class="question_fullscreen" style="padding-left:20px; display:none">
+              <p>
+                vsxu_player and vsxu_artiste accept command line arguemnts.<br>
+                So, you need to add -f to the command. And optionally -s [width]x[height] for screen resolution<br>
+                Try to use your existing screen resolution, that is always best.<br>
+                When hitting -f VSXu tries to detect your screen resolution but this doesn't always work...<br>
+                <br>
+                Here is an example on how to start VSXu Artiste in Fullscreen Full HD resolution:
+            </p>
+              <pre>vsxu_artiste -s 1920x1080 -f</pre>
+                or
+              <pre>vsxu_player -s 1920x1080 -f</pre>
+            <p>
+               If you run Windows, you can right-click the shortcut in the start menu and edit the command right there.
+                <br>
+                <br>
+                To view all available command line arguments, run this:
+              </p>
+                  <pre>vsxu_artiste -h</pre>
+            </div>
+            
+            <hr>
+            
+            
+            <h2 onclick="$('.question_audio').show()" style="cursor:pointer">
+              Q: VSXu is not reacting to sound!
+            </h2>
+            <div class="question_audio" style="padding-left:20px; display:none">
+              <p>
+                  This depends on your Operating System.<br>
+                <br>
+            </p>
+                <h2>Windows</h2>
+            <p>
+                  If you're on Windows, you have to set the recording settings properly.<br>
+                <br>
+                Why? VSXu works by recording Sound played through the Soundcard.<br>
+                <br>
+                  It can be tricky, you have to right-click and show "disabled/hidden devices" to see the device.<br>
+                  <br>
+                  Try <a href="http://www.sevenforums.com/tutorials/20595-what-u-hear-recording-enable.html"><b>this guide</b></a>
+                - one of our users found this to be quite helpful.<br>
+            </p>
+            <h2>GNU/Linux</h2>
+            
+            <p>
+                You should look for a program called <b>pavucontrol</b>.<br>
+                If you're on Ubuntu, you can just search for it in the software center.<br>
+                Or if you prefer command line:<br>
+            </p>
+            <pre>apt-get install pavucontrol</pre>
+            <p>
+                Once installed, you can set the recording settings for individual programs. If you start VSXu first
+                and pavucontrol second, VSXu should show up in pavucontrol and you can then select a sound
+                recording source for it.
+            </p>
+            </div>
+            
+            <hr>
+            
+            <h2 onclick="$('.question_randomizer').show()" style="cursor:pointer">
+              Q: How do I stop VSXu Player from switching between visuals all the time?
+            </h2>
+            <div class="question_randomizer" style="padding-left:20px; display:none">
+              <p>
+                  Easy! Just hit the key "R" on your keyboard.<br>
+                <br>
+                  Then if you want it enabled again - hit "R" again.<br>
+                  The "R" key toggles the "randomizer" on and off.<br>
+                  And... if you press the "F1" key you can see more keyboard shortcuts.<br>
+              </p>
+            </div>
               
-                      <hr>
               
-              
-                      <h2 onclick="$('.question_audio').show()" style="cursor:pointer">
-                          Q: VSXu is not reacting to sound!
-                      </h2>
-                      <div class="question_audio" style="padding-left:20px; display:none">
-                          <p>
-                              This depends on your Operating System.<br>
-                            <br>
-                        </p>
-                            <h2>Windows</h2>
-                        <p>
-                              If you're on Windows, you have to set the recording settings properly.<br>
-                            <br>
-                            Why? VSXu works by recording Sound played through the Soundcard.<br>
-                            <br>
-                              It can be tricky, you have to right-click and show "disabled/hidden devices" to see the device.<br>
-                              <br>
-                              Try <a href="http://www.sevenforums.com/tutorials/20595-what-u-hear-recording-enable.html"><b>this guide</b></a>
-                            - one of our users found this to be quite helpful.<br>
-                        </p>
-                        <h2>GNU/Linux</h2>
-              
-                        <p>
-                            You should look for a program called <b>pavucontrol</b>.<br>
-                            If you're on Ubuntu, you can just search for it in the software center.<br>
-                            Or if you prefer command line:<br>
-                        </p>
-                        <pre>apt-get install pavucontrol</pre>
-                        <p>
-                            Once installed, you can set the recording settings for individual programs. If you start VSXu first
-                            and pavucontrol second, VSXu should show up in pavucontrol and you can then select a sound
-                            recording source for it.
-                        </p>
-                      </div>
-              
-                      <hr>
-              
-                      <h2 onclick="$('.question_randomizer').show()" style="cursor:pointer">
-                          Q: How do I stop VSXu Player from switching between visuals all the time?
-                      </h2>
-                      <div class="question_randomizer" style="padding-left:20px; display:none">
-                          <p>
-                              Easy! Just hit the key "R" on your keyboard.<br>
-                            <br>
-                              Then if you want it enabled again - hit "R" again.<br>
-                              The "R" key toggles the "randomizer" on and off.<br>
-                              And... if you press the "F1" key you can see more keyboard shortcuts.<br>
-                          </p>
-                      </div>
-              
-              
-              <hr>
+             <hr>
               
                       <h2 onclick="$('.question_recording').show()" style="cursor:pointer">
                           Q: How do I record the output of VSXu?

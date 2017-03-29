@@ -36,13 +36,11 @@ permalink: /documentation/video-tutorials
             
             <header class="major">
                 <h1>
-                    VSXu Live
+                    Video Tutorials
                 </h1>
             </header>
               
-            <h1>Video Tutorials</h1>
-    
-            <h2>Sound reactive particle system by <a href="http://www.imagineer.net.au">asterix</a>:</h2>
+            <h2>Sound reactive particle system by <a href="http://www.imagineer.net.au">asterix</a></h2>
             <p>
                 <object width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
                     <param value="400" name="width">
