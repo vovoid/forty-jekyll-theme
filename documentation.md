@@ -11,15 +11,23 @@ permalink: /documentation
                     <a href="/documentation" class="button special">
                         About
                     </a>
+                </li>
+                <li>
                     <a href="/documentation/faq" class="button">
                         FAQ
                     </a>
+                </li>
+                <li>
                     <a href="/documentation/vsxu-live" class="button">
                         Video - VSXu Live
                     </a>
+                </li>
+                <li>
                     <a href="/documentation/video-tutorials" class="button">
                         Video - Tutorials
                     </a>
+                </li>
+                <li>
                     <a href="/documentation/video-tutorials" class="button">
                         Changelog
                     </a>
