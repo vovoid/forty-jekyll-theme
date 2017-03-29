@@ -6,11 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation-changelog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-changelog.md" afterPath="$PROJECT_DIR$/documentation-changelog.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-faq.md" afterPath="$PROJECT_DIR$/documentation-faq.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-video-tutorials.md" afterPath="$PROJECT_DIR$/documentation-video-tutorials.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-vsxu-live.md" afterPath="$PROJECT_DIR$/documentation-vsxu-live.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation.md" afterPath="$PROJECT_DIR$/documentation.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -208,8 +208,8 @@
         <entry file="file://$PROJECT_DIR$/documentation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="576">
-                <caret line="32" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -221,8 +221,8 @@
         <entry file="file://$PROJECT_DIR$/documentation-faq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="773">
-                <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -230,12 +230,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documentation-vsxu-live.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="documentation-vsxu-live.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/documentation-vsxu-live.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="24" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -247,8 +247,8 @@
         <entry file="file://$PROJECT_DIR$/documentation-video-tutorials.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="17" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -256,12 +256,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documentation-changelog.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="documentation-changelog.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="774">
-                <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -475,10 +475,10 @@
       <find>/data/baker/vsxu.com/app/modules/index/images</find>
       <find>!</find>
       <find>template</find>
-      <find>pre</find>
       <find>class=&quot;code&quot;</find>
       <find>&lt;a</find>
       <find>&lt;/a</find>
+      <find>pre</find>
     </findStrings>
     <replaceStrings>
       <replace>/assets/images/screenshots</replace>
@@ -513,12 +513,12 @@
         <option value="$PROJECT_DIR$/template.md" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/download.md" />
-        <option value="$PROJECT_DIR$/documentation.md" />
         <option value="$PROJECT_DIR$/_includes/tiles.html" />
-        <option value="$PROJECT_DIR$/documentation-vsxu-live.md" />
-        <option value="$PROJECT_DIR$/documentation-video-tutorials.md" />
-        <option value="$PROJECT_DIR$/documentation-faq.md" />
         <option value="$PROJECT_DIR$/documentation-changelog.md" />
+        <option value="$PROJECT_DIR$/documentation.md" />
+        <option value="$PROJECT_DIR$/documentation-faq.md" />
+        <option value="$PROJECT_DIR$/documentation-video-tutorials.md" />
+        <option value="$PROJECT_DIR$/documentation-vsxu-live.md" />
       </list>
     </option>
   </component>
@@ -649,7 +649,7 @@
       <workItem from="1490434299217" duration="28448000" />
       <workItem from="1490624196105" duration="1471000" />
       <workItem from="1490638927434" duration="3030000" />
-      <workItem from="1490779555312" duration="1555000" />
+      <workItem from="1490779555312" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -669,7 +669,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34504000" />
+    <option name="totallyTimeSpent" value="34573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="2560" height="1416" extended-state="6" />
@@ -1132,11 +1132,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation-vsxu-live.md">
+    <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="24" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1146,19 +1146,8 @@
     <entry file="file://$PROJECT_DIR$/documentation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="576">
-            <caret line="32" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation-video-tutorials.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="17" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1168,19 +1157,30 @@
     <entry file="file://$PROJECT_DIR$/documentation-faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="773">
-            <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
+    <entry file="file://$PROJECT_DIR$/documentation-video-tutorials.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="774">
-            <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation-vsxu-live.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />

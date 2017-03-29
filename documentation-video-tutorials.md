@@ -28,7 +28,7 @@ permalink: /documentation/video-tutorials
                     </a>
                 </li>
                 <li>
-                    <a href="/documentation/video-tutorials" class="button">
+                    <a href="/documentation/changelog" class="button">
                         Changelog
                     </a>
                 </li>
