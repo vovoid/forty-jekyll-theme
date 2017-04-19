@@ -1,4 +1,5 @@
 # Site settings
+exclude: attic
 title: VSXu - audio visualizer, music visualizer, visual programming language (VPL), realtime graphics design platform
 subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
