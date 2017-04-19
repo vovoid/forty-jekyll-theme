@@ -8,12 +8,10 @@ main_menu: yes
     <section id="one">
         <div class="inner">
             <ul class="actions horizontal">
-                <li><a href="/about" class="button special">About</a></li>
-                <li><a href="/about/music-lovers" class="button">Music lovers</a></li>
-                <li><a href="/about/live-events" class="button">Live events</a></li>
-                <li><a href="/about/artists" class="button">Artists</a></li>
-                <li><a href="/about/streamers" class="button">Streamers</a></li>
-                <li><a href="/about/developers" class="button">Developers</a></li>
+                <li><a href="/support" class="button special">Support</a></li>
+                <li><a href="/support/commercial" class="button">Commercial Support</a></li>
+                <li><a href="/support/irc" class="button">IRC</a></li>
+                <li><a href="/support/github" class="button">Github</a></li>
             </ul>
             <header class="major">
                 <h1>Support</h1>
@@ -21,9 +19,13 @@ main_menu: yes
             <p>
             We provide different ways to get support.
             </p>
+            
+            <p>
+            The most common issues are gathered in our <a href="/documentation/faq">FAQ</a>, so please start there!
+            </p>
 
             <p>
-            We do prefer if you stop by irc and say hi but some things are better described as github issues.
+            If you need personal help, please step by <a href="/support/irc">irc</a> and say hi but some things are better described as <a href="http://github.com/vovoid/vsxu">github issues</a>.
             
             Either way, we hope we have a good answer for you!
             
