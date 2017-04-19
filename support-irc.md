@@ -23,6 +23,9 @@ permalink: /support/irc
                   <tr><td>Regulars:</td><td>jaw, saidinesh</td></tr>
                 </tbody></table>
             </p>
+            <p>
+            Note! Do not expect an immediate answer - we may take up to 48 hours to answer. 
+            </p>
             
             {% include mid_ad.html %}
             

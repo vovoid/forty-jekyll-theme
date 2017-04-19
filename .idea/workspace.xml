@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support-commercial.md" afterPath="$PROJECT_DIR$/support-commercial.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support-github.md" afterPath="$PROJECT_DIR$/support-github.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support-irc.md" afterPath="$PROJECT_DIR$/support-irc.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support.md" afterPath="$PROJECT_DIR$/support.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -389,8 +386,8 @@
         <entry file="file://$PROJECT_DIR$/support-irc.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <first_editor relative-caret-position="468">
+                <caret line="26" column="91" lean-forward="true" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -707,7 +704,7 @@
       <workItem from="1490638927434" duration="3030000" />
       <workItem from="1490779555312" duration="1991000" />
       <workItem from="1492524133295" duration="1631000" />
-      <workItem from="1492611810365" duration="547000" />
+      <workItem from="1492611810365" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -727,7 +724,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37118000" />
+    <option name="totallyTimeSpent" value="37220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="2560" height="1416" extended-state="6" />
@@ -1241,8 +1238,8 @@
     <entry file="file://$PROJECT_DIR$/support-irc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <first_editor relative-caret-position="468">
+            <caret line="26" column="91" lean-forward="true" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
             <folding />
           </first_editor>
           <second_editor />
