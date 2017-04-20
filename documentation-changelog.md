@@ -34,6 +34,12 @@ permalink: /documentation/changelog
                 </li>
             </ul>
             
+            <header class="major">
+                <h1>
+                    Documentation - Changelog
+                </h1>
+            </header>
+
             
 <h4>VSXu 0.6.0 (March 2017)</h4>
 
@@ -281,11 +287,6 @@ VSXu Artiste:
 + new main server menu layout
             
             
-            <header class="major">
-                <h1>
-                    Changelog
-                </h1>
-            </header>
 </pre>
                         {% include mid_ad.html %}
 
