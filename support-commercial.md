@@ -8,6 +8,7 @@ permalink: /support/commercial
         <div class="inner">
             <ul class="actions horizontal">
                 <li><a href="/support" class="button">Support</a></li>
+                <li>|</li>
                 <li><a href="/support/commercial" class="button special">Commercial Support</a></li>
                 <li><a href="/support/irc" class="button">IRC</a></li>
                 <li><a href="/support/github" class="button">Github</a></li>
