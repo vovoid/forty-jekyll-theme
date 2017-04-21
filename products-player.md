@@ -21,29 +21,29 @@ permalink: /products/player
             
               <h1>VSXu Player</h1>
               <p style="margin-left:0">
-                        <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_1.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_1.jpg" width="206" height="108">
+                        <a href="/assets/images/screenshots/screenshot_player_1.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_1.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_2.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_2.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_2.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_2.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_3.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_3.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_3.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_3.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_4.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_4.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_4.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_4.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_5.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_5.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_5.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_5.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_6.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_6.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_6.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_6.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_7.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_7.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_7.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_7.jpg" width="206" height="108">
                 </a>
-                  <a href="/data/baker/vsxu.com/app/modules/index/images/screenshot_player_8.png" target="_blank" style="text-decoration: none">
-                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_8.jpg" width="206" height="108">
+                  <a href="/assets/images/screenshots/screenshot_player_8.png" target="_blank" style="text-decoration: none">
+                <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_8.jpg" width="206" height="108">
                 </a>
                 </p>
               <h2>VSXu Player</h2>
