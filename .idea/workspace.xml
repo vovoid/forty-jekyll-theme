@@ -7,7 +7,8 @@
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download.md" afterPath="$PROJECT_DIR$/download.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,32 +23,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="development.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/development.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="209">
-                <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="documentation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
-                <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="37" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="documentation-changelog.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -61,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="download.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="download.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -70,6 +45,28 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#ins#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="3683" column="42" lean-forward="false" selection-start-line="3683" selection-start-column="42" selection-end-line="3683" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,8 +147,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pre</find>
-      <find>&lt;/section</find>
       <find>0.3.0</find>
       <find>div</find>
       <find>h1</find>
@@ -176,10 +171,12 @@
       <find>jquery.</find>
       <find>jquery.mi</find>
       <find>jquery.min</find>
-      <find>fa-twitter</find>
       <find>windows</find>
       <find>linux</find>
       <find>github</find>
+      <find>fa-twitter</find>
+      <find>0</find>
+      <find>0.2</find>
     </findStrings>
     <replaceStrings>
       <replace>/assets/images/screenshots</replace>
@@ -216,10 +213,8 @@
         <option value="$PROJECT_DIR$/about-live-events.md" />
         <option value="$PROJECT_DIR$/about-streamers.md" />
         <option value="$PROJECT_DIR$/_includes/tiles.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_sass/layout/_banner.scss" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/assets/js/analytics.js" />
         <option value="$PROJECT_DIR$/credits.md" />
         <option value="$PROJECT_DIR$/support.md" />
@@ -233,6 +228,8 @@
         <option value="$PROJECT_DIR$/documentation-vsxu-live.md" />
         <option value="$PROJECT_DIR$/documentation-changelog.md" />
         <option value="$PROJECT_DIR$/download.md" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -302,6 +299,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vovoid.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vovoid.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -437,7 +452,7 @@
       <workItem from="1490779555312" duration="1991000" />
       <workItem from="1492524133295" duration="1631000" />
       <workItem from="1492611810365" duration="3406000" />
-      <workItem from="1492765012685" duration="7993000" />
+      <workItem from="1492765012685" duration="8726000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -607,11 +622,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492777926486</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="pl">
+      <created>1492777978127</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1492777978127</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47970000" />
+    <option name="totallyTimeSpent" value="48703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -928,14 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="3343" column="32" lean-forward="true" selection-start-line="3343" selection-start-column="32" selection-end-line="3343" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/layout/_banner.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -959,16 +973,6 @@
         <state relative-caret-position="168">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="106" column="16" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#ins#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1136,6 +1140,24 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="3683" column="42" lean-forward="false" selection-start-line="3683" selection-start-column="42" selection-end-line="3683" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>

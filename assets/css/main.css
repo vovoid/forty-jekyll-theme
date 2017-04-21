@@ -3681,7 +3681,7 @@ select option {
 
 		#footer .copyright li {
 			border-left: solid 1px rgba(212, 212, 255, 0.1);
-			color: rgba(244, 244, 255, 0.2);
+			color: rgba(244, 244, 255, 0.9);
 			display: inline-block;
 			line-height: 1;
 			margin-left: 1em;
