@@ -44,6 +44,10 @@ permalink: /documentation/changelog
             
 <h4>VSXu 0.6.0 (March 2017)</h4>
 
+            <ul class="actions horizontal">
+                <li><a href="/download" class="button">Download now!</a></li>
+            </ul>
+
 <pre>
 Feature wise, VSXu 0.6.0 might just look like a patch release (0.5.1 was broken on many graphics drivers).
 But it's a lot more than that.

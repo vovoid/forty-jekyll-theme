@@ -7,12 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/development.md" afterPath="$PROJECT_DIR$/development.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-changelog.md" afterPath="$PROJECT_DIR$/documentation-changelog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-faq.md" afterPath="$PROJECT_DIR$/documentation-faq.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-video-tutorials.md" afterPath="$PROJECT_DIR$/documentation-video-tutorials.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-vsxu-live.md" afterPath="$PROJECT_DIR$/documentation-vsxu-live.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation.md" afterPath="$PROJECT_DIR$/documentation.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,19 +22,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="support.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/support.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="support-commercial.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/support-commercial.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -105,12 +87,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documentation-changelog.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="documentation-changelog.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="129">
-                <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <first_editor relative-caret-position="738">
+                <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -144,12 +126,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documentation-vsxu-live.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="documentation-vsxu-live.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation-vsxu-live.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="111">
                 <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="671">
+                <caret line="46" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -240,10 +235,10 @@
         <option value="$PROJECT_DIR$/support-irc.md" />
         <option value="$PROJECT_DIR$/development.md" />
         <option value="$PROJECT_DIR$/documentation.md" />
-        <option value="$PROJECT_DIR$/documentation-changelog.md" />
         <option value="$PROJECT_DIR$/documentation-faq.md" />
         <option value="$PROJECT_DIR$/documentation-video-tutorials.md" />
         <option value="$PROJECT_DIR$/documentation-vsxu-live.md" />
+        <option value="$PROJECT_DIR$/documentation-changelog.md" />
       </list>
     </option>
   </component>
@@ -420,7 +415,7 @@
       <workItem from="1490779555312" duration="1991000" />
       <workItem from="1492524133295" duration="1631000" />
       <workItem from="1492611810365" duration="3406000" />
-      <workItem from="1492765012685" duration="6927000" />
+      <workItem from="1492765012685" duration="7107000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -562,11 +557,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492776835787</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="pl">
+      <created>1492776911618</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1492776911618</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46904000" />
+    <option name="totallyTimeSpent" value="47084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -785,17 +787,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="252">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1050,17 +1041,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="129">
-            <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation-faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1088,6 +1068,28 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="111">
             <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="671">
+            <caret line="46" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="738">
+            <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
