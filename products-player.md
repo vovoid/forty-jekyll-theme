@@ -18,10 +18,8 @@ permalink: /products/player
             </header>
             
             {% include mid_ad.html %}
-            
-              <h1>VSXu Player</h1>
-              <p style="margin-left:0">
-                        <a href="/assets/images/screenshots/screenshot_player_1.png" target="_blank" style="text-decoration: none">
+            <p>
+                <a href="/assets/images/screenshots/screenshot_player_1.png" target="_blank" style="text-decoration: none">
                 <img style="margin-left:5px; margin-top: 5px" title="VSXu Player Screenshot" alt="VSXu Player Screenshot" src="/assets/images/screenshots/thumbs/screenshot_player_1.jpg" width="206" height="108">
                 </a>
                   <a href="/assets/images/screenshots/screenshot_player_2.png" target="_blank" style="text-decoration: none">
@@ -57,7 +55,7 @@ permalink: /products/player
                 - Easy to install stand-alone audio visualizer works with any music player or line-input<br>
                 - High Definition (HD) - 720p, 1080p definition runs on most standard graphics cards<br>
               </p>
-                <h2>IMPORTANT NOTE - SELECTING A SOUND SOURCE FOR WINDOWS 7</h2>
+                <h2>IMPORTANT NOTE - SELECTING A SOUND SOURCE FOR WINDOWS</h2>
               <p>
                 This is to use VSXu to visualize your media player of choice - if you want to use it
                 for your Stereo or mixer, use Line-In to record.
@@ -71,22 +69,7 @@ permalink: /products/player
                   Microsoft (likely after pressure from the RIAA et. al.) have disabled the "Stereo Mix" device in their drivers, afraid that people would
                   record sound off of youtube.
                 </li></ul>
-              
-              <h2>IMPORTANT NOTE - SELECTING A SOUND SOURCE FOR WINDOWS XP</h2>
-              <p>Ensure you have configured your sound settings correctly.</p>
-              <ul>
-                <li>Double click on the Volume Control (Speaker Icon) in the bottom right hand side of your windows desktop </li>
-                <li>Go to options &gt; advanced options&gt; properties &gt; select "recording" &gt; click ok.</li>
-                <li>
-                  Select the sound source you want VSXU to react to: <br> 
-                  <ul>
-                    <li>Line-in or mic for an external audio signal - ensure you adjust your microphone boost to suit as external audio signals will vary on different cards. </li>
-                    <li>AUX or 'what you hear' to react to music from your favourite audio player</li>
-                  </ul>
-                </li>
-                <li>Use maximum volume where-ever possible.</li>
-              </ul>
-            
+                          
             <h2>REMOVING TRANSITIONS</h2>
             <p>
                 Transitions can be added or removed inside the _visuals_faders directory.
