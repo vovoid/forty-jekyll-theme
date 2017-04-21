@@ -43,8 +43,8 @@ main_menu: yes
             </ul>
         
             <p id="download_windows" style="display:none">
+                <span class="icon fa-windows">/span>
                 <a href="#"
-                class="icon fa-windows"
                  onClick="
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -53,12 +53,14 @@ main_menu: yes
             </p>
             
             <p id="download_linux" style="display:none">
+                <span class="icon fa-linux">/span>
                 <a href="#" 
-                class="icon fa-linux"
                 onClick="
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
-                ">AppImage for GNU/Linux (64-bit)</a><br/>
+                ">AppImage for GNU/Linux (64-bit)</a>
+                
+                <br/>
                 Contains VSXu Artiste, VSXu Player and Server.<br>
                 <br>
                 To run, set execution flag on the file and just run it. Most desktop environments understand this type of file
@@ -66,9 +68,9 @@ main_menu: yes
             </p>
 
             <p id="download_source" style="display:none">
-                VSXu is written in C++ and hosted on GitHub.  
+                VSXu is written in C++ and hosted on GitHub.<br/>
+                <span class="icon fa-github">/span>
                 <a href="https://github.com/vovoid/vsxu" 
-                    class="icon fa-linux"
                     target="_blank">Go to github (new window)</a><br>
                 <br>
                 VSXu is generally developed under Linux, but now (since 0.6.0) you can develop equally well on Windows.<br>
