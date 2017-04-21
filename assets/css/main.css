@@ -1860,6 +1860,7 @@ select option {
 			letter-spacing: 0.35em;
 			margin-bottom: 0;
 			text-transform: uppercase;
+			text-shadow: 1px 1px #333333;
 		}
 
 		body.is-ie header.major > :first-child:after {
