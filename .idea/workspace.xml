@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="3225" />
-    <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="2796" />
+    <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="3226" />
+    <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="2797" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,8 +63,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="2845" column="13" lean-forward="true" selection-start-line="2845" selection-start-column="13" selection-end-line="2845" selection-end-column="13" />
+            <state relative-caret-position="317">
+              <caret line="2731" column="45" lean-forward="false" selection-start-line="2731" selection-start-column="45" selection-end-line="2731" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -145,7 +146,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>0.3.0</find>
       <find>div</find>
       <find>h1</find>
       <find>data/baker/vsxu.com/app/modules/index/images</find>
@@ -175,6 +175,7 @@
       <find>fa-twitter</find>
       <find>0</find>
       <find>0.2</find>
+      <find>tiles article h3</find>
     </findStrings>
     <replaceStrings>
       <replace>/assets/images/screenshots</replace>
@@ -450,7 +451,7 @@
       <workItem from="1490779555312" duration="1991000" />
       <workItem from="1492524133295" duration="1631000" />
       <workItem from="1492611810365" duration="3406000" />
-      <workItem from="1492765012685" duration="9237000" />
+      <workItem from="1492765012685" duration="9399000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -641,11 +642,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492779724658</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="pl">
+      <created>1492779846456</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1492779846456</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49214000" />
+    <option name="totallyTimeSpent" value="49376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -1167,8 +1175,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="2845" column="13" lean-forward="true" selection-start-line="2845" selection-start-column="13" selection-end-line="2845" selection-end-column="13" />
+        <state relative-caret-position="317">
+          <caret line="2731" column="45" lean-forward="false" selection-start-line="2731" selection-start-column="45" selection-end-line="2731" selection-end-column="45" />
           <folding />
         </state>
       </provider>
