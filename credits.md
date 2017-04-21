@@ -19,8 +19,8 @@ main_menu: yes
   <b>Design:</b> Jonatan Wallmander, Jesper Harming<br>
   <b>Presets, QA, Support:</b> Peter Walker aka "asterix", Jonatan Wallmander<br>
   <br>
-  The following individuals helped start up the project: Robert Wenzel aka "CoR", Joakim Fännick aka "ion"<br>
-  </b></p><b>
+  <b>The following individuals helped start up the project:</b> Robert Wenzel aka "CoR", Joakim Fännick aka "ion"<br>
+  </p>
   <h2>3rd party libraries and code compiled into VSXu</h2>
   <p>
     Laurent de Soras<br>
