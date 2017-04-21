@@ -7,7 +7,8 @@ permalink: /about/music-lovers
     <section id="one">
         <div class="inner">
             <ul class="actions horizontal">
-                <li><a href="/about" class="button">About</a></li>
+                <li><a href="/about" class="button special">About</a></li>
+                <li>|</li>
                 <li><a href="/about/music-lovers" class="button special">Music lovers</a></li>
                 <li><a href="/about/live-events" class="button">Live events</a></li>
                 <li><a href="/about/artists" class="button">Artists</a></li>

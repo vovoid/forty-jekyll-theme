@@ -8,6 +8,7 @@ permalink: /products/server
         <div class="inner">
             <ul class="actions horizontal">
                 <li><a href="/products" class="button">Products</a></li>
+                <li>|</li>
                 <li><a href="/products/player" class="button">VSXu Player</a></li>
                 <li><a href="/products/artiste" class="button">VSXu Artiste</a></li>
                 <li><a href="/products/server" class="button special">VSXu Server</a></li>

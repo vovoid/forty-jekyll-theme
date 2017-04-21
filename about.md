@@ -9,6 +9,7 @@ main_menu: yes
         <div class="inner">
             <ul class="actions horizontal">
                 <li><a href="/about" class="button special">About</a></li>
+                <li>|</li>
                 <li><a href="/about/music-lovers" class="button">Music lovers</a></li>
                 <li><a href="/about/live-events" class="button">Live events</a></li>
                 <li><a href="/about/artists" class="button">Artists</a></li>

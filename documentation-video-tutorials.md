@@ -8,10 +8,11 @@ permalink: /documentation/video-tutorials
         <div class="inner">
             <ul class="actions horizontal">
                 <li>
-                    <a href="/documentation" class="button">
-                        About
+                    <a href="/documentation" class="button special">
+                        Docuentation
                     </a>
                 </li>
+                <li>|</li>
                 <li>
                     <a href="/documentation/faq" class="button">
                         FAQ

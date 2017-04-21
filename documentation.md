@@ -9,9 +9,10 @@ permalink: /documentation
             <ul class="actions horizontal">
                 <li>
                     <a href="/documentation" class="button special">
-                        About
+                        Docuentation
                     </a>
                 </li>
+                <li>|</li>
                 <li>
                     <a href="/documentation/faq" class="button">
                         FAQ

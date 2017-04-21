@@ -9,6 +9,7 @@ main_menu: yes
         <div class="inner">
             <ul class="actions horizontal">
                 <li><a href="/products" class="button special">Products</a></li>
+                <li>|</li>
                 <li><a href="/products/player" class="button">VSXu Player</a></li>
                 <li><a href="/products/artiste" class="button">VSXu Artiste</a></li>
                 <li><a href="/products/server" class="button">VSXu Server</a></li>
