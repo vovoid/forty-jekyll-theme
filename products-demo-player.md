@@ -1,7 +1,7 @@
 ---
 layout: page-inner
-title: Products - VSXu Server
-permalink: /products/server
+title: Products - VSXu Demo Player
+permalink: /products/demo-player
 ---
 <div id="main" class="alt">
     <section id="one">

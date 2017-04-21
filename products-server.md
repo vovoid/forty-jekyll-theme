@@ -18,9 +18,9 @@ permalink: /products/server
             </header>
             
             <p>
-            VSXu server lets you detach the local "preview" of VSXu Artiste and run it on a remote computer. 
-            This is not intended to run stock visualizations, rather to run single-state projects designed 
-            specifically for a show.
+                VSXu server lets you detach the local "preview" of VSXu Artiste and run it on a remote computer. 
+                This is not intended to run stock visualizations, rather to run single-state projects designed 
+                specifically for a show.
             </p>
             {% include mid_ad.html %}
 
