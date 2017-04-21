@@ -9,7 +9,7 @@ permalink: /documentation/vsxu-live
             <ul class="actions horizontal">
                 <li>
                     <a href="/documentation" class="button">
-                        Docuentation
+                        Documentation
                     </a>
                 </li>
                 <li>|</li>

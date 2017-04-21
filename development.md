@@ -9,7 +9,7 @@ main_menu: yes
         <div class="inner">
             <header class="major">
                 <h1>
-                    Documentation
+                    Development
                 </h1>
             </header>
 
