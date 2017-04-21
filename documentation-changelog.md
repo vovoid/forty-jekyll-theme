@@ -8,7 +8,7 @@ permalink: /documentation/changelog
         <div class="inner">
             <ul class="actions horizontal">
                 <li>
-                    <a href="/documentation" class="button special">
+                    <a href="/documentation" class="button">
                         Docuentation
                     </a>
                 </li>
