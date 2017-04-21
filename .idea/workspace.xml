@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="3224" />
+    <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="3225" />
     <bookmark url="file://$PROJECT_DIR$/assets/css/main.css" line="2796" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +63,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="3683" column="42" lean-forward="false" selection-start-line="3683" selection-start-column="42" selection-end-line="3683" selection-end-column="42" />
+            <state relative-caret-position="328">
+              <caret line="2849" column="38" lean-forward="false" selection-start-line="2849" selection-start-column="38" selection-end-line="2849" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -452,7 +451,7 @@
       <workItem from="1490779555312" duration="1991000" />
       <workItem from="1492524133295" duration="1631000" />
       <workItem from="1492611810365" duration="3406000" />
-      <workItem from="1492765012685" duration="8726000" />
+      <workItem from="1492765012685" duration="9115000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -629,11 +628,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492777978127</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="pl">
+      <created>1492779335570</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1492779335570</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48703000" />
+    <option name="totallyTimeSpent" value="49092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -1155,8 +1161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="3683" column="42" lean-forward="false" selection-start-line="3683" selection-start-column="42" selection-end-line="3683" selection-end-column="42" />
+        <state relative-caret-position="328">
+          <caret line="2849" column="38" lean-forward="false" selection-start-line="2849" selection-start-column="38" selection-end-line="2849" selection-end-column="38" />
           <folding />
         </state>
       </provider>
