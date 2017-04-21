@@ -11,7 +11,7 @@ main_menu: yes
                 <h1>Download VSXu</h1>
             </header>
             <p>
-            Current Version: {{ site.current_version }} Released {{ site.current_version_date }}
+              Current Version: {{ site.current_version }} Released {{ site.current_version_date }}
             </p>
             <ul class="actions horizontal">
                 <li><a href="#" class="button" 
@@ -43,12 +43,18 @@ main_menu: yes
             </ul>
         
             <p id="download_windows" style="display:none">
-                <a href="#" onClick="document.getElementById('paypal').style.display = 'block';">Installer for Windows (64-bit)</a><br/>
+                <a href="#" onClick="
+                    analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
+                    document.getElementById('paypal').style.display = 'block';
+                ">Installer for Windows (64-bit)</a><br/>
                 Contains VSXu Artiste and VSXu Player
             </p>
             
             <p id="download_linux" style="display:none">
-                <a href="#" onClick="document.getElementById('paypal').style.display = 'block';">AppImage for GNU/Linux (64-bit)</a><br/>
+                <a href="#" onClick="
+                    analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
+                    document.getElementById('paypal').style.display = 'block';
+                ">AppImage for GNU/Linux (64-bit)</a><br/>
                 Contains VSXu Artiste, VSXu Player and Server.<br>
                 <br>
                 To run, set execution flag on the file and just run it. Most desktop environments understand this type of file
