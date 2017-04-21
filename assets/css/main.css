@@ -2756,7 +2756,7 @@ select option {
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.45;
+				opacity: 0.75;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
