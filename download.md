@@ -43,7 +43,7 @@ main_menu: yes
             </ul>
         
             <p id="download_windows" style="display:none">
-                <span class="icon fa-windows">/span>
+                <span class="icon fa-windows"></span>
                 <a href="#"
                  onClick="
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
@@ -53,7 +53,7 @@ main_menu: yes
             </p>
             
             <p id="download_linux" style="display:none">
-                <span class="icon fa-linux">/span>
+                <span class="icon fa-linux"></span>
                 <a href="#" 
                 onClick="
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
@@ -69,7 +69,7 @@ main_menu: yes
 
             <p id="download_source" style="display:none">
                 VSXu is written in C++ and hosted on GitHub.<br/>
-                <span class="icon fa-github">/span>
+                <span class="icon fa-github"></span>
                 <a href="https://github.com/vovoid/vsxu" 
                     target="_blank">Go to github (new window)</a><br>
                 <br>
