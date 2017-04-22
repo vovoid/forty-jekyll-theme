@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
+              <first_editor relative-caret-position="651">
                 <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
                 <folding />
               </first_editor>
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/download.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="168">
+              <first_editor relative-caret-position="945">
                 <caret line="45" column="47" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
                 <folding />
               </first_editor>
@@ -51,8 +51,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+            <state relative-caret-position="1386">
+              <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#ins#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
               </folding>
@@ -63,8 +63,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="2758" column="28" lean-forward="false" selection-start-line="2758" selection-start-column="28" selection-end-line="2758" selection-end-column="28" />
+            <state relative-caret-position="-399">
+              <caret line="2763" column="0" lean-forward="true" selection-start-line="2763" selection-start-column="0" selection-end-line="2763" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
       <file leaf-file-name="elements-orig-md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attic/elements-orig-md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="2121">
               <caret line="101" column="51" lean-forward="false" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="51" />
               <folding />
             </state>
@@ -84,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/documentation-faq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="141">
+              <first_editor relative-caret-position="231">
                 <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
                 <folding />
               </first_editor>
@@ -97,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/documentation-video-tutorials.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="141">
+              <first_editor relative-caret-position="231">
                 <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
                 <folding />
               </first_editor>
@@ -110,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/documentation-vsxu-live.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="111">
+              <first_editor relative-caret-position="231">
                 <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
                 <folding />
               </first_editor>
@@ -122,7 +122,7 @@
       <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="63">
               <caret line="3" column="8360" lean-forward="false" selection-start-line="3" selection-start-column="8354" selection-end-line="3" selection-end-column="8360" />
               <folding />
             </state>
@@ -133,7 +133,7 @@
         <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="671">
+              <first_editor relative-caret-position="966">
                 <caret line="46" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -260,7 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -336,6 +335,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,7 +451,8 @@
       <workItem from="1490779555312" duration="1991000" />
       <workItem from="1492524133295" duration="1631000" />
       <workItem from="1492611810365" duration="3406000" />
-      <workItem from="1492765012685" duration="9425000" />
+      <workItem from="1492765012685" duration="9541000" />
+      <workItem from="1492861268211" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -656,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492780008139</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="pl">
+      <created>1492780035177</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1492780035177</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49402000" />
+    <option name="totallyTimeSpent" value="49597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -669,7 +677,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -681,6 +688,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -705,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1674">
           <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,7 +736,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1044">
             <caret line="58" column="41" lean-forward="false" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -751,7 +756,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -761,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,13 +789,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attic/template-inner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="540">
@@ -802,26 +808,19 @@
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attic/template.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
             <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +829,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="206">
             <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -841,7 +839,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -852,7 +849,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -863,7 +859,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -874,7 +869,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="129">
             <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -885,7 +879,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="177">
             <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -896,7 +889,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="189">
             <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -907,7 +899,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="177">
             <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -918,7 +909,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -929,7 +919,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -940,7 +929,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="231">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -950,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,9 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -973,7 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,7 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,9 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,7 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1302">
           <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,7 +993,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="399">
             <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1027,7 +1003,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1038,7 +1013,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1049,7 +1023,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1060,7 +1033,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1071,7 +1043,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="209">
             <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1082,7 +1053,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="231">
             <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="37" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1091,7 +1061,7 @@
     <entry file="file://$PROJECT_DIR$/documentation-faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="141">
+          <first_editor relative-caret-position="231">
             <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             <folding />
           </first_editor>
@@ -1102,7 +1072,7 @@
     <entry file="file://$PROJECT_DIR$/documentation-video-tutorials.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="141">
+          <first_editor relative-caret-position="231">
             <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             <folding />
           </first_editor>
@@ -1113,7 +1083,7 @@
     <entry file="file://$PROJECT_DIR$/documentation-vsxu-live.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="111">
+          <first_editor relative-caret-position="231">
             <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             <folding />
           </first_editor>
@@ -1124,7 +1094,7 @@
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="671">
+          <first_editor relative-caret-position="966">
             <caret line="46" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1135,7 +1105,7 @@
     <entry file="file://$PROJECT_DIR$/documentation-changelog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
+          <first_editor relative-caret-position="651">
             <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
             <folding />
           </first_editor>
@@ -1145,7 +1115,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/attic/elements-orig-md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="2121">
           <caret line="101" column="51" lean-forward="false" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="51" />
           <folding />
         </state>
@@ -1153,7 +1123,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="63">
           <caret line="3" column="8360" lean-forward="false" selection-start-line="3" selection-start-column="8354" selection-end-line="3" selection-end-column="8360" />
           <folding />
         </state>
@@ -1162,7 +1132,7 @@
     <entry file="file://$PROJECT_DIR$/download.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="168">
+          <first_editor relative-caret-position="945">
             <caret line="45" column="47" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
             <folding />
           </first_editor>
@@ -1172,8 +1142,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+        <state relative-caret-position="1386">
+          <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#ins#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
           </folding>
@@ -1182,8 +1152,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="2758" column="28" lean-forward="false" selection-start-line="2758" selection-start-column="28" selection-end-line="2758" selection-end-column="28" />
+        <state relative-caret-position="-399">
+          <caret line="2763" column="0" lean-forward="true" selection-start-line="2763" selection-start-column="0" selection-end-line="2763" selection-end-column="0" />
           <folding />
         </state>
       </provider>
