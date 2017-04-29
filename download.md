@@ -14,7 +14,7 @@ main_menu: yes
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }}
             </p>
             <ul class="actions horizontal">
-                <li><a href="#" class="button" 
+                <li><a href="#download_linux" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'block'; 
                     document.getElementById('download_linux').style.display = 'none';
@@ -22,7 +22,7 @@ main_menu: yes
                     document.getElementById('paypal').style.display = 'none';
                 "
                 >Windows</a></li>
-                <li><a href="#" class="button" 
+                <li><a href="#download_windows" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'none'; 
                     document.getElementById('download_linux').style.display = 'block';
